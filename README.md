@@ -4,6 +4,13 @@ Problems from [4clojure](https://www.4clojure.com/), tested with [Speclj](http:/
 
 For when you want to do some 4clojure problems, but don't want to write the code in the browser.
 
+## Installation
+
+Using homebrew:
+
+- `brew cask install adoptopenjdk`
+- `brew install leiningen`
+
 ## Adding a problem
 
 If the problem you want to solve isn't tested in ```fourclojure.core-spec``` yet:
